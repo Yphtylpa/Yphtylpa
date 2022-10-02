@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yphtylpa
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning python
+- 📫 How to reach me vk.com/yphtylpa
+- I've just started working on my projects, so thats all.
